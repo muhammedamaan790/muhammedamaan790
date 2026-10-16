@@ -118,11 +118,23 @@ I treat security as a design constraint, not a final checklist. My degree specia
 
 | Area | Details |
 | :--- | :--- |
-| **Capture The Flag** | Solve CTF challenges and publish writeups, including [GoPwnIt](https://github.com/muhammedamaan790/Gopwinit-Writeups) |
+| **CTF Team** | Member of [**KN1GHTS**](https://github.com/Kn1ghts-Org), competing together in security challenges |
+| **Capture The Flag** | Web exploitation, cryptography, forensics & steganography, and binary exploitation & reversing; writeups published, including [GoPwnIt](https://github.com/muhammedamaan790/Gopwinit-Writeups) |
 | **Secure Authentication** | scrypt-hashed credentials loaded from deployment secrets, session-based login, no credentials in source control |
 | **Least Privilege** | Application-level SQL table allowlist that limits what a restricted role can query |
 | **Integrity & Auditability** | Hash-verified review snapshots, human-approved model updates and read-back verification of every executed change |
 | **LLM Guardrails** | Deterministic tool paths for prices and policies, so the model cannot invent them; generation fencing against stale output |
+
+**Toolkit**
+
+<a href="https://www.kali.org"><img src="https://img.shields.io/badge/Kali_Linux-1e1b4b?style=for-the-badge&logo=kalilinux&logoColor=c4b5fd" alt="Kali Linux" /></a>
+<a href="https://nmap.org"><img src="https://img.shields.io/badge/Nmap-1e1b4b?style=for-the-badge&logoColor=c4b5fd" alt="Nmap" /></a>
+<a href="https://portswigger.net/burp"><img src="https://img.shields.io/badge/Burp_Suite-1e1b4b?style=for-the-badge&logo=burpsuite&logoColor=c4b5fd" alt="Burp Suite" /></a>
+<a href="https://docs.pwntools.com"><img src="https://img.shields.io/badge/pwntools-1e1b4b?style=for-the-badge&logoColor=c4b5fd" alt="pwntools" /></a>
+<a href="https://gchq.github.io/CyberChef/"><img src="https://img.shields.io/badge/CyberChef-1e1b4b?style=for-the-badge&logoColor=c4b5fd" alt="CyberChef" /></a>
+<a href="https://www.kernel.org"><img src="https://img.shields.io/badge/Linux-1e1b4b?style=for-the-badge&logo=linux&logoColor=c4b5fd" alt="Linux" /></a>
+
+**Focus areas**
 
 <img src="https://img.shields.io/badge/CTF-1e1b4b?style=flat-square&logo=hackthebox&logoColor=c4b5fd" alt="CTF" />
 <img src="https://img.shields.io/badge/Application_Security-1e1b4b?style=flat-square&logo=owasp&logoColor=c4b5fd" alt="Application Security" />
@@ -251,6 +263,7 @@ I design, build and ship end-to-end AI products under hackathon deadlines, from 
 | **DataQuest 3.0** | Built ADAPT, a D2C advertising intelligence and decision engine |
 | **Team COLD** | Co-built Autonomous Enterprise Intelligence on Exasol Personal |
 | **AETHER Reliability** | 0 stale outputs in 112 interruption runs · 1,994 tests passing |
+| [**KN1GHTS**](https://github.com/Kn1ghts-Org) | CTF team member, competing in security challenges |
 | **GoPwnIt CTF** | Published challenge writeups |
 
 </div>
