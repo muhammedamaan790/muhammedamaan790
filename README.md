@@ -8,10 +8,9 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/YOUR_DEGREE-YOUR_BRANCH-7c3aed?style=flat-square&logo=bookstack&logoColor=white&labelColor=1e1b4b" alt="Degree" />
-<img src="https://img.shields.io/badge/University-YOUR_UNIVERSITY-6d28d9?style=flat-square&logo=academia&logoColor=white&labelColor=1e1b4b" alt="University" />
-<img src="https://img.shields.io/badge/Class_of-YOUR_GRADUATION_YEAR-5b21b6?style=flat-square&logo=googlescholar&logoColor=white&labelColor=1e1b4b" alt="Graduation" />
-<img src="https://img.shields.io/badge/Location-YOUR_CITY,_India-4f46e5?style=flat-square&logo=googlemaps&logoColor=white&labelColor=1e1b4b" alt="Location" />
+<img src="https://img.shields.io/badge/CSE-Cyber_Security-7c3aed?style=flat-square&logo=bookstack&logoColor=white&labelColor=1e1b4b" alt="CSE Cyber Security" />
+<img src="https://img.shields.io/badge/University-VIT_Chennai-6d28d9?style=flat-square&logo=academia&logoColor=white&labelColor=1e1b4b" alt="VIT Chennai" />
+<img src="https://img.shields.io/badge/Location-Chennai,_India-4f46e5?style=flat-square&logo=googlemaps&logoColor=white&labelColor=1e1b4b" alt="Chennai, India" />
 
 <br/><br/>
 
