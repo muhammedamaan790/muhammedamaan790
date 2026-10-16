@@ -55,7 +55,7 @@ A common thread runs through everything I build. **The system shows its evidence
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" height="48" alt="JavaScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" height="48" alt="HTML5" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" height="48" alt="CSS3" /></a>
-<a href="https://www.json.org" title="JSON"><img src="https://skillicons.dev/icons?i=json&theme=dark" width="48" height="48" alt="JSON" /></a>
+<a href="https://www.json.org" title="JSON"><img src="https://raw.githubusercontent.com/muhammedamaan790/muhammedamaan790/main/assets/icons/json.svg" width="48" height="48" alt="JSON" /></a>
 
 <h4>Frontend</h4>
 
@@ -69,9 +69,7 @@ A common thread runs through everything I build. **The system shows its evidence
 <a href="https://nodejs.org" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" height="48" alt="Node.js" /></a>
 <a href="https://fastapi.tiangolo.com" title="FastAPI"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="48" height="48" alt="FastAPI" /></a>
 <a href="https://www.sqlite.org" title="SQLite"><img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="48" height="48" alt="SQLite" /></a>
-<a href="https://duckdb.org" title="DuckDB"><img src="https://skillicons.dev/icons?i=duckdb&theme=dark" width="48" height="48" alt="DuckDB" /></a>
-
-<br/><br/>
+<a href="https://duckdb.org" title="DuckDB"><img src="https://raw.githubusercontent.com/muhammedamaan790/muhammedamaan790/main/assets/icons/duckdb.svg" width="48" height="48" alt="DuckDB" /></a>
 
 <a href="https://www.exasol.com"><img src="https://img.shields.io/badge/Exasol-1e1b4b?style=flat-square&logoColor=c4b5fd" alt="Exasol" /></a>
 <a href="https://docs.pydantic.dev"><img src="https://img.shields.io/badge/Pydantic-1e1b4b?style=flat-square&logo=pydantic&logoColor=c4b5fd" alt="Pydantic" /></a>
@@ -87,8 +85,6 @@ A common thread runs through everything I build. **The system shows its evidence
 <a href="https://www.gnu.org/software/bash/" title="Bash"><img src="https://skillicons.dev/icons?i=bash&theme=dark" width="48" height="48" alt="Bash" /></a>
 <a href="https://learn.microsoft.com/powershell/" title="PowerShell"><img src="https://skillicons.dev/icons?i=powershell&theme=dark" width="48" height="48" alt="PowerShell" /></a>
 <a href="https://code.visualstudio.com" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" height="48" alt="VS Code" /></a>
-
-<br/><br/>
 
 <a href="https://render.com"><img src="https://img.shields.io/badge/Render-1e1b4b?style=flat-square&logo=render&logoColor=c4b5fd" alt="Render" /></a>
 <a href="https://pages.github.com"><img src="https://img.shields.io/badge/GitHub_Pages-1e1b4b?style=flat-square&logo=githubpages&logoColor=c4b5fd" alt="GitHub Pages" /></a>
