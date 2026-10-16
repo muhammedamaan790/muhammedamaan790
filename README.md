@@ -79,6 +79,7 @@ A common thread runs through everything I build. **The system shows its evidence
 
 <h4>Cloud, DevOps & Tooling</h4>
 
+<a href="https://vercel.com" title="Vercel"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="48" height="48" alt="Vercel" /></a>
 <a href="https://www.docker.com" title="Docker"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" height="48" alt="Docker" /></a>
 <a href="https://nginx.org" title="nginx"><img src="https://skillicons.dev/icons?i=nginx&theme=dark" width="48" height="48" alt="nginx" /></a>
 <a href="https://git-scm.com" title="Git"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="Git" /></a>
