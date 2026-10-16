@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4c1d95,100:7c3aed&height=220&section=header&text=Muhammed%20Amaan&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=AI%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Product%20Builder&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Muhammed Amaan" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4c1d95,100:7c3aed&height=220&section=header&text=Muhammed%20Amaan&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=AI%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Cyber%20Security&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Muhammed Amaan" />
 
 <a href="https://github.com/muhammedamaan790">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=Building+AI+systems+that+show+their+evidence;Explainable+ML+%C2%B7+Voice+Agents+%C2%B7+Data+Agents;Python+%C2%B7+TypeScript+%C2%B7+FastAPI+%C2%B7+React;From+model+to+production%2C+end+to+end" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=Building+AI+systems+that+show+their+evidence;CSE+Cyber+Security+%40+VIT+Chennai;Secure+by+design%2C+not+by+patch;Explainable+ML+%C2%B7+Voice+Agents+%C2%B7+Data+Agents;Python+%C2%B7+TypeScript+%C2%B7+FastAPI+%C2%B7+React;From+model+to+production%2C+end+to+end" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -30,16 +30,17 @@
 
 ## About
 
-I am a software engineer who builds AI systems that have to be right, not just plausible. My work sits where machine learning meets product engineering: calibrated models, autonomous agents and real-time voice pipelines, shipped as full-stack applications with tests, deployment and an audit trail.
+I am a software engineer and Computer Science student specialising in Cyber Security at VIT Chennai. I build AI systems that have to be right, not just plausible, and safe to trust. My work sits where machine learning meets product engineering: calibrated models, autonomous agents and real-time voice pipelines, shipped as full-stack applications with tests, deployment and an audit trail.
 
 A common thread runs through everything I build. **The system shows its evidence.** My coronary review tool explains every prediction with exact SHAP contributions. My data investigator computes its confidence from the evidence it gathered, not from the model's claim about itself. My hotel voice agent answers prices and policies from a database, never from a language model, and refuses to speak a stale answer after the caller interrupts.
 
 - **Software engineering.** Typed APIs, deterministic routing, reproducible builds, containerised deployment and large automated test suites.
 - **AI / ML.** Gradient-boosted models with calibration and SHAP, LLM agents with tool use, speech-to-text and text-to-speech pipelines.
 - **Full stack.** FastAPI and Python services behind React, TypeScript and Three.js interfaces, packaged with Docker and nginx.
+- **Cyber security.** CTF challenges and writeups, plus security built into every project: hashed credentials, least-privilege data access, integrity checks and guardrails that keep LLMs away from facts they must not invent.
 - **Product mindset.** Each project starts from a real workflow (a clinician's case review, a marketer's budget decision, a hotel guest's phone call) and ends with something a user can run.
 
-**Open to:** Software engineering and AI/ML internships and full-time roles · AI product engineering · Hackathon and open-source collaborations
+**Open to:** Software engineering, AI/ML and cyber security internships and full-time roles · AI product engineering · Hackathon and open-source collaborations
 
 ---
 
@@ -87,6 +88,26 @@ A common thread runs through everything I build. **The system shows its evidence
 | **Voice AI** | ![Proficient](https://img.shields.io/badge/Proficient-6d28d9?style=flat-square) | LiveKit SIP telephony, faster-whisper STT, Rime TTS, interruption handling and generation fencing |
 | **Text-to-SQL & Data Agents** | ![Proficient](https://img.shields.io/badge/Proficient-6d28d9?style=flat-square) | Exasol and DuckDB execution, deterministic source routing, table allowlists, join-path attribution |
 | **Decision Systems** | ![Proficient](https://img.shields.io/badge/Proficient-6d28d9?style=flat-square) | Response curves, constrained budget allocation and forecast-versus-outcome measurement |
+
+---
+
+## Cyber Security
+
+I treat security as a design constraint, not a final checklist. My degree specialisation is Cyber Security, I sharpen offensive skills through Capture The Flag challenges, and I apply the defensive side in every system I ship.
+
+| Area | Details |
+| :--- | :--- |
+| **Capture The Flag** | Solve CTF challenges and publish writeups, including [GoPwnIt](https://github.com/muhammedamaan790/Gopwinit-Writeups) |
+| **Secure Authentication** | scrypt-hashed credentials loaded from deployment secrets, session-based login, no credentials in source control |
+| **Least Privilege** | Application-level SQL table allowlist that limits what a restricted role can query |
+| **Integrity & Auditability** | Hash-verified review snapshots, human-approved model updates and read-back verification of every executed change |
+| **LLM Guardrails** | Deterministic tool paths for prices and policies, so the model cannot invent them; generation fencing against stale output |
+
+<img src="https://img.shields.io/badge/CTF-1e1b4b?style=flat-square&logo=hackthebox&logoColor=c4b5fd" alt="CTF" />
+<img src="https://img.shields.io/badge/Application_Security-1e1b4b?style=flat-square&logo=owasp&logoColor=c4b5fd" alt="Application Security" />
+<img src="https://img.shields.io/badge/Access_Control-1e1b4b?style=flat-square&logoColor=c4b5fd" alt="Access Control" />
+<img src="https://img.shields.io/badge/Secure_SDLC-1e1b4b?style=flat-square&logoColor=c4b5fd" alt="Secure SDLC" />
+<img src="https://img.shields.io/badge/AI_Security-1e1b4b?style=flat-square&logoColor=c4b5fd" alt="AI Security" />
 
 ---
 
@@ -195,6 +216,7 @@ I design, build and ship end-to-end AI products under hackathon deadlines, from 
 <img src="https://img.shields.io/badge/LLM_Agents-1e1b4b?style=flat-square&logoColor=c4b5fd" />
 <img src="https://img.shields.io/badge/Voice_AI-1e1b4b?style=flat-square&logoColor=c4b5fd" />
 <img src="https://img.shields.io/badge/Docker-1e1b4b?style=flat-square&logo=docker&logoColor=c4b5fd" />
+<img src="https://img.shields.io/badge/Security-1e1b4b?style=flat-square&logoColor=c4b5fd" />
 
 ---
 
@@ -211,26 +233,6 @@ I design, build and ship end-to-end AI products under hackathon deadlines, from 
 | **GoPwnIt CTF** | Published challenge writeups |
 
 </div>
-
----
-
-## Certifications
-
-**AWS**
-
-<img src="https://img.shields.io/badge/AWS-YOUR_AWS_CERTIFICATION-7c3aed?style=for-the-badge&labelColor=1e1b4b" alt="AWS" />
-
-**Oracle**
-
-<img src="https://img.shields.io/badge/Oracle-YOUR_ORACLE_CERTIFICATION-6d28d9?style=for-the-badge&labelColor=1e1b4b" alt="Oracle" />
-
-**NPTEL**
-
-<img src="https://img.shields.io/badge/NPTEL-YOUR_NPTEL_COURSE-5b21b6?style=for-the-badge&labelColor=1e1b4b" alt="NPTEL" />
-
-**Cisco**
-
-<img src="https://img.shields.io/badge/Cisco-YOUR_CISCO_CERTIFICATION-4f46e5?style=for-the-badge&logo=cisco&logoColor=white&labelColor=1e1b4b" alt="Cisco" />
 
 ---
 
@@ -298,16 +300,18 @@ I design, build and ship end-to-end AI products under hackathon deadlines, from 
 
 ```yaml
 learning:
+  - Offensive and defensive security through CTF challenges
   - Evaluation methods for LLM agents and voice pipelines
   - Distributed systems and backend scalability
 building:
   - Evidence-first AI products that explain their decisions
   - Real-time voice agents with deterministic fallbacks
 exploring:
+  - Security of LLM agents: prompt injection and tool misuse
   - Multimodal models for clinical decision support
   - Agentic analytics over enterprise data warehouses
 open_to:
-  - Software engineering and AI/ML internships and roles
+  - Software engineering, AI/ML and cyber security internships and roles
   - Hackathon teams and open-source collaborations
 ```
 
